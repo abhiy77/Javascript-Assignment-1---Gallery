@@ -1,0 +1,86 @@
+.gallery-admin-heading{
+    margin-top: 100px;
+    color: red;
+    background-color: yellow;
+}
+
+.btn-gallery{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.image-form{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.submit-btn-gallery{
+    margin-top: 25px;
+}
+
+/* Default Gallery Template styles */
+
+.gallery-img-items{
+    width: 100%;
+    height: 100%;
+}
+
+.gallery-img-id{
+    color:violet;
+    background-color: yellow;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.gallery-img-name {
+    color:red;
+    background-color: yellow;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.gallery-img-desc{
+    color:blue;
+    background-color: yellow;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+    overflow: hidden;
+}
+
+.gallery-items{
+    margin-bottom: 200px;
+}
+
+#alert-gallery-form{
+    display: none;
+}
+
+
+/* Card Template styles */
+
+.gallery-card-items {
+    height : 500px;
+    width : 100%;
+}
+
+.gallery-card-id{
+    color:red;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.gallery-card-name {
+    color:blue;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.gallery-card-desc{
+    margin-bottom: 20px;
+    text-align: center;
+    overflow: hidden;
+}

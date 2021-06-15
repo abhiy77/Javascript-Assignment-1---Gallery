@@ -1,0 +1,69 @@
+{
+  "images": [
+    {
+      "id": "_r7w2qzr8k",
+      "url": "../imgs/thought1.jpeg",
+      "name": "Thought 1",
+      "description": "It's going to be hard but hard does not mean impossible",
+      "uploadTime": "2021-06-08T08:21"
+    },
+    {
+      "id": "_s3w2aer8k",
+      "url": "../imgs/thought2.jpeg",
+      "name": "Thought 2",
+      "description": "The way to get started is to quit talking and begin doing",
+      "uploadTime": "2021-06-08T08:21"
+    },
+    {
+      "id": "_w1w2qwr8k",
+      "url": "../imgs/thought3.jpeg",
+      "name": "Thought 3",
+      "description": "A room without books is like a body without a soul",
+      "uploadTime": "2021-06-08T08:21"
+    },
+    {
+      "id": "_h1w4q4s3t",
+      "url": "../imgs/thought4.jpeg",
+      "name": "Thought 4",
+      "description": "Sometimes later becomes never. Do it now.",
+      "uploadTime": "2021-06-08T08:21"
+    },
+    {
+      "id": "_afr1qwr83",
+      "url": "../imgs/thought5.jpeg",
+      "name": "Thought 5",
+      "description": "Push yourself, because no one else is going to do it for you.",
+      "uploadTime": "2021-06-08T08:21"
+    },
+    {
+      "id": "_bb12etr45",
+      "url": "../imgs/thought6.jpeg",
+      "name": "Thought 6",
+      "description": "The key to success is to focus on goals, not obstacles",
+      "uploadTime": "2021-06-08T08:21"
+    },
+    {
+      "id": "_de12rtr3q",
+      "url": "https://images.ctfassets.net/hrltx12pl8hq/3MbF54EhWUhsXunc5Keueb/60774fbbff86e6bf6776f1e17a8016b4/04-nature_721703848.jpg?fit=fill&w=480&h=270 ",
+      "name": "A beautiful leaf",
+      "description": "Nature's wonders",
+      "uploadTime": "2021-06-09T08:42"
+    },
+    {
+      "id": "_taysbim9q",
+      "url": "../imgs/thought7.jpeg",
+      "name": "Thought 7",
+      "description": "Daily morning thoughts",
+      "uploadTime": "2021-06-09T13:17"
+    }
+  ],
+  "feedback": [
+    {
+      "fullName": "Abhishek",
+      "email": "abhishek@gmail.com",
+      "contactNo": "9876543210",
+      "feedback": "This is a demo feedback",
+      "id": 1
+    }
+  ]
+}
